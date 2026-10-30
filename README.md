@@ -1,6 +1,6 @@
 # Outreach Management
 
-A web app for **Kharis** to record street and campus outreach, follow up with the people we meet, and give the pastor a clear, privacy-respecting picture of what is happening.
+A web app for church to record street and campus outreach, follow up with the people we meet, and give the pastor a clear, privacy-respecting picture of what is happening.
 
 > **Status: working prototype (build stage 4 of 5).** The whole app runs in the browser on fictional data so the workflow, permissions and reports can be tested with real users before the production build. The Django version is the next stage. See [Roadmap](#roadmap).
 
